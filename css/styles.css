@@ -1,0 +1,165 @@
+body {
+    font-family: 'Poppins';
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 20px;
+    position: absolute;
+    top: 10rem;
+}
+.container2 {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.container3{
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+    
+    top: 600px;
+}
+.google {
+    position: absolute;
+    left: 66rem;
+    cursor: pointer;
+}
+.apple {
+    position: absolute;
+    left: 62rem;
+    cursor: pointer;
+}
+.facebook{
+    position: absolute;
+    left: 58rem;
+    cursor: pointer;
+}
+.box2{
+    position: absolute;
+    left: 21rem;
+    cursor: pointer;
+}
+
+.logo {
+    width: 5rem;
+    height: 2rem;
+    position: relative;
+    left: 0rem;
+    top: 0rem;
+}
+.left h1 {
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 75px;
+
+}
+
+.left h3 {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 52px;
+}
+
+.container .left {
+   
+    height: 100%;
+    width: 100%;
+    margin-left: 1px;
+    padding-left: 110px;
+}
+.right{
+    height: 100%;
+    width: 20%;
+    margin: 40px;
+    position: absolute;
+    left: 45rem;
+    top: -9rem;
+    padding-top: 3rem;
+    padding-right: 10rem;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+}
+.sign{
+    font-size: 5px;
+    width: 150px;
+}
+.login {
+    background: #4D47C3;
+    box-shadow: 0px 4px 61px rgba(77, 71, 195, 0.4);
+    border-radius: 9px;
+    height: 59px;
+    width: 380px;
+    top: 0px;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-left: 1rem;
+    border: none;
+    color: white;
+   
+
+}
+.forget {
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+color: #B0B0B0;
+margin-bottom: 50px;
+position: relative;
+left: 300%;
+width: 130px;
+}
+input{
+    width: 369px;
+    height: 52px;
+    left: 892px;
+    top: 347px;
+    background-color:#F0EFFF;
+    border-radius: 8px;
+    margin: 1em;
+    padding-left: 29px;
+    color: #A7A3FF;
+    border: none;
+
+}
+.sign {
+    font-family: Poppins;
+font-size: 30px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+/*.invisibile{
+    position: relative;
+    width: 17px;
+    height: 17px;
+    right: 5px;
+    top: 0px;
+}*/
+a{
+    text-decoration: none;
+}
+   .bottom{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #B0B0B0;
+    position: relative;
+    text-align: center;
+    top: 3rem;
+    left: 8rem;
+    width: 130px;
+    }
+.man{
+    position: relative;
+    top: -10rem;
+    left: 20rem;
+}
